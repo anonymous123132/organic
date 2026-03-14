@@ -1,0 +1,36 @@
+import { content as c1_1_en } from './1.1_en';
+import { content as c1_2_en } from './1.2_en';
+import { content as c1_3_en } from './1.3_en';
+import { content as c1_4_en } from './1.4_en';
+import { content as c1_5_en } from './1.5_en';
+import { content as c1_6_en } from './1.6_en';
+import { content as c1_7_en } from './1.7_en';
+import { content as c1_8_en } from './1.8_en';
+import { content as c1_9_en } from './1.9_en';
+import { content as c1_10_en } from './1.10_en';
+import { content as c1_11_en } from './1.11_en';
+import { content as c1_12_en } from './1.12_en';
+import { content as c1_13_en } from './1.13_en';
+import { content as c1_14_en } from './1.14_en';
+import { content as c1_15_en } from './1.15_en';
+import { content as c1_16_en } from './1.16_en';
+
+import { content as c1_1_he } from './1.1_he';
+import { content as c1_2_he } from './1.2_he';
+import { content as c1_3_he } from './1.3_he';
+import { content as c1_4_he } from './1.4_he';
+import { content as c1_5_he } from './1.5_he';
+import { content as c1_6_he } from './1.6_he';
+import { content as c1_7_he } from './1.7_he';
+import { content as c1_8_he } from './1.8_he';
+import { content as c1_9_he } from './1.9_he';
+import { content as c1_10_he } from './1.10_he';
+import { content as c1_11_he } from './1.11_he';
+import { content as c1_12_he } from './1.12_he';
+import { content as c1_13_he } from './1.13_he';
+import { content as c1_14_he } from './1.14_he';
+import { content as c1_15_he } from './1.15_he';
+import { content as c1_16_he } from './1.16_he';
+
+export const chapter1Content = c1_1_en + c1_2_en + c1_3_en + c1_4_en + c1_5_en + c1_6_en + c1_7_en + c1_8_en + c1_9_en + c1_10_en + c1_11_en + c1_12_en + c1_13_en + c1_14_en + c1_15_en + c1_16_en;
+export const chapter1ContentHe = c1_1_he + c1_2_he + c1_3_he + c1_4_he + c1_5_he + c1_6_he + c1_7_he + c1_8_he + c1_9_he + c1_10_he + c1_11_he + c1_12_he + c1_13_he + c1_14_he + c1_15_he + c1_16_he;
